@@ -1,10 +1,11 @@
-import React from 'react';
+import React from "react"
 
 function Contato(){
     return(
-        <>
-        <h1 style={{backgroundColor: 'green'}}>Contato</h1>
-        </>
+        <div>
+            <h1>Contato</h1>
+            <p>Conteúdo da página</p>
+        </div>
     )
 }
 

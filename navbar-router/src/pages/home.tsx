@@ -1,10 +1,11 @@
-import React from 'react';
+import React from "react"
 
 function Home(){
     return(
-        <>
-        <h1 style={{backgroundColor: 'red'}}>Home</h1>
-        </>
+        <div>
+            <h1>Home</h1>
+            <p>Conteúdo da página</p>
+        </div>
     )
 }
 

@@ -1,11 +1,12 @@
-import React from 'react';
+import React from "react"
 
 function Localização(){
     return(
-        <>
-        <h1 style={{backgroundColor: 'blue'}}>Localização</h1>
-        </>
-    );
+        <div>
+            <h1>Localização</h1>
+            <p>Conteúdo da página</p>
+        </div>
+    )
 }
 
 export default Localização;
